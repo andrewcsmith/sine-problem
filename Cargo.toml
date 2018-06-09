@@ -1,0 +1,8 @@
+[package]
+name = "sine_problems"
+version = "0.1.0"
+authors = ["Andrew C. Smith <andrewchristophersmith@gmail.com>"]
+
+[dependencies]
+hound = '3.4.0'
+sample = { git = "https://github.com/RustAudio/sample.git" }
